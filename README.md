@@ -8,3 +8,5 @@
 该项目用到 T 检验的知识
 
 [检验心理学.pdf](https://github.com/WoHotan/Stroop-effect/blob/master/%E6%A3%80%E9%AA%8C%E5%BF%83%E7%90%86%E5%AD%A6.pdf)--report
+
+数据集[stroopdata.csv](https://github.com/WoHotan/Stroop-effect/blob/master/stroopdata.csv)
